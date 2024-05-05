@@ -4,15 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "b86a989ffe18d861",
+        "id": "b4a8f5c1d67d1bd9",
         "type": "tabs",
         "children": [
           {
-            "id": "ec9a019c5d6b93e3",
+            "id": "353369cf57c11185",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "excalidraw",
+              "state": {
+                "file": "jolf-architecture.excalidraw.md"
+              }
             }
           }
         ]
@@ -44,7 +46,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "UnimplementedCommandServer",
+                "query": "tag:#todo",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -81,6 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "jolf-architecture.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "jolf-architecture.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +122,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "jolf-architecture.excalidraw.md"
+              }
             }
           },
           {
@@ -128,14 +134,21 @@
               "type": "advanced-tables-toolbar",
               "state": {}
             }
+          },
+          {
+            "id": "e86d795e2fc4e6f1",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -149,19 +162,19 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "ec9a019c5d6b93e3",
+  "active": "353369cf57c11185",
   "lastOpenFiles": [
-    "electronics/microcontrollers/esp32c3.md",
-    "electronics/motor-drivers/drv8876.md",
-    "electronics/sensors/motor-encoders/incremental-encoders/magnetic-encoder-for-micro-metal-gearmotor(12cpr).md",
-    "electronics/power-considerations.md",
-    "electronics/pcb-design.md",
+    "images/jai-microcontroller-selection.png",
     "electronics/electronic-system-examples.excalidraw.md",
-    "electronics/motors/brushed-dc/12v-micro-metal-gearmotor-extended-shaft(100-to-1 gear ratio).md",
-    "software/NATS.md",
+    "electronics/pcb-design.md",
+    "electronics/power-considerations.md",
+    "electronics/motor-drivers/drv8876.md",
+    "electronics/microcontrollers/esp32c3.md",
     "iot-guides.md",
     "jolf-architecture.excalidraw.md",
-    "images/jai-microcontroller-selection.png",
+    "electronics/sensors/motor-encoders/incremental-encoders/magnetic-encoder-for-micro-metal-gearmotor(12cpr).md",
+    "electronics/motors/brushed-dc/12v-micro-metal-gearmotor-extended-shaft(100-to-1 gear ratio).md",
+    "software/NATS.md",
     "images",
     "electronics/power-management/batteries/Untitled.md",
     "electronics/power-management/batteries",

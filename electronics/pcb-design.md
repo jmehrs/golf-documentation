@@ -1,6 +1,3 @@
->*seriously, it's easy and very rewarding; imagine the difference between showing someone your junk project that looks like a bomb a 13 year-old made vs your very professional PCB with your logo silkscreened on it*
->	- *A [comment](https://www.reddit.com/r/esp32/comments/1012kr8/lipo_charging_module_that_let_you_use_the_device/#thing_t1_j2lt2ot) on reddit*
-
 ## Free PCB Design Software
 I've opted for [KiCad](https://www.kicad.org/) as that is free & widely used.
 
