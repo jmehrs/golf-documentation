@@ -11,9 +11,11 @@
             "id": "353369cf57c11185",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "jolf-architecture.excalidraw.md"
+                "file": "software/NATS.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -67,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 288.5
+    "width": 269.5
   },
   "right": {
     "id": "78788c9cd2402b12",
@@ -83,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "jolf-architecture.excalidraw.md",
+                "file": "software/NATS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "jolf-architecture.excalidraw.md",
+                "file": "software/NATS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "jolf-architecture.excalidraw.md"
+                "file": "software/NATS.md"
               }
             }
           },
@@ -164,6 +166,16 @@
   },
   "active": "353369cf57c11185",
   "lastOpenFiles": [
+    "electronics/power-management/buck-converters/5V-2.5A(d24v22f5).md",
+    "electronics/power-management/buck-converters/mpm3610.md",
+    "electronics/power-management/buck-converters/images/d24v22x-quiescent-current.png",
+    "electronics/power-management/buck-converters/images/d24v22x-continuous-output-current.png",
+    "electronics/power-management/buck-converters/images/d24v22f5-efficiency.png",
+    "electronics/power-management/buck-converters/images/d24v22f5-dropout-voltage.png",
+    "electronics/power-management/buck-converters/images/d24v22f5-pinout.png",
+    "electronics/sensors/motor-encoders/incremental-encoders/magnetic-encoder-for-micro-metal-gearmotor(12cpr).md",
+    "software/NATS.md",
+    "jolf-architecture.excalidraw.md",
     "images/jai-microcontroller-selection.png",
     "electronics/electronic-system-examples.excalidraw.md",
     "electronics/pcb-design.md",
@@ -171,10 +183,7 @@
     "electronics/motor-drivers/drv8876.md",
     "electronics/microcontrollers/esp32c3.md",
     "iot-guides.md",
-    "jolf-architecture.excalidraw.md",
-    "electronics/sensors/motor-encoders/incremental-encoders/magnetic-encoder-for-micro-metal-gearmotor(12cpr).md",
     "electronics/motors/brushed-dc/12v-micro-metal-gearmotor-extended-shaft(100-to-1 gear ratio).md",
-    "software/NATS.md",
     "images",
     "electronics/power-management/batteries/Untitled.md",
     "electronics/power-management/batteries",
@@ -185,13 +194,11 @@
     "electronics/sensors/motor-encoders/incremental-encoders",
     "electronics/sensors/motor-encoders",
     "electronics/motor-drivers/images/drv8876-typical-application.png",
-    "electronics/power-management/buck-converters/mpm3610.md",
     "electronics/motor-drivers/images",
     "electronics/power-management/buck-converters/images/mpm3610-typical-application.png",
     "electronics/power-management/buck-converters/images",
     "electronics/power-management/buck-converters",
     "electronics/motors/brushed-dc/images/12v-micro-metal-gearmotor(100-to-1 gear ratio)-power-speed-torque.png",
-    "electronics/motors/brushed-dc/images/12v-micro-metal-gearmotor(100-to-1 gear ratio)-dimensions.png",
     "electronics/motors/brushed-dc/images",
     "Holes/Power.excalidraw.md",
     "Excalidraw/Drawing 2024-03-21 17.31.29.excalidraw.md",
@@ -204,11 +211,6 @@
     "nexus/cmd/twin.go.md",
     "nexus/pkg/infrastructure/tstamp/tstamp.go.md",
     "nexus/cmd/sec.go.md",
-    "nexus/pkg/infrastructure/server/server.go.md",
-    "nexus/pkg/infrastructure/eb/eb.go.md",
-    "nexus/pkg/infrastructure/webui/resources/images/sync.png",
-    "nexus/pkg/infrastructure/webui/resources/images/setup2.png",
-    "nexus/pkg/infrastructure/webui/resources/images/setup1.png",
-    "nexus/pkg/infrastructure/webui/resources/images/rotate.png"
+    "nexus/pkg/infrastructure/server/server.go.md"
   ]
 }
